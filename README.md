@@ -49,7 +49,6 @@ Predict whether a customer will churn or not based on past banking records.
 ## 📁 Files Included
 - `Bank_Churn_Prediction.ipynb` – Full code
 - `Bank_Churn_Prediction_Presentation_Dixit_Jadav.pptx` – Slide deck summary
-- [Bank_Churn_Prediction_Presentation_Dixit_Jadav.pptx]– Downloadable slide deck
 - `README.md` – Project overview
 
 ## 👨‍💻 Author
